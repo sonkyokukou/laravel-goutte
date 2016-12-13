@@ -16,12 +16,11 @@ This will add the following lines to your `composer.json` and download the proje
 ```json
 // ./composer.json
 
-
   "require": {
     "php": ">=5.5.9",
     "laravel/framework": "5.2.*",
     "sonkyokukou/goutte": "@dev",
-    // ...
+    
   },
 
 ```
