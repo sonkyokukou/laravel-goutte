@@ -1,12 +1,12 @@
 {
-    "name": "weidner/goutte",
+    "name": "sonkyokukou/goutte",
     "description": "Laravel 5 package for Gouette, a simple PHP Web Scraper",
     "license": "MIT",
     "keywords": ["goutte", "laravel"],
     "authors": [
         {
-            "name": "Daniel Weidner",
-            "email": "hallo@danielweidner.de"
+            "name": "son kyokukou",
+            "email": "xu@sun-its.com"
         }
     ],
     "require": {
