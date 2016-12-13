@@ -8,28 +8,22 @@ In your terminal application move to the root directory of your laravel project 
 
 ```sh
 $ cd ~/Sites/laravel-example-project
-$ composer require weidner/goutte:@dev
+$ composer require sonkyokukou/goutte:@dev
 ```
 
-This will add the following lines to your `composer.json` and download the project and its dependencies to your projects `./vendor` directory:
+This will add the following lines to your `composer.json` and download the project and its dependencies to your projects directory:
 
 ```json
 // ./composer.json
-{
-  "name": "weidner/laravel-goutte-test",
-  "description": "A dummy project used to test the Laravel Goutte Facade.",
 
-  // ...
 
   "require": {
     "php": ">=5.5.9",
     "laravel/framework": "5.2.*",
-    "weidner/goutte": "@dev",
+    "sonkyokukou/goutte": "@dev",
     // ...
   },
 
-  //...
-}
 ```
 
 
